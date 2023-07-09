@@ -1,1 +1,1 @@
-# ibmdata
+# IBM DATA SCIENCE COURSE
